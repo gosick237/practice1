@@ -1,7 +1,3 @@
-# practice1
-study
-
-
 <!doctype html>
 <html lang="ko">
 
