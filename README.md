@@ -1,6 +1,5 @@
 <head>
 <meta charset="utf-8">
-<title>YH's web</title>
 
 <meta name="viewport" content="width=1190">
 </head>
