@@ -1,6 +1,3 @@
-<!doctype html>
-<html lang="ko">
-
 <head>
 <meta charset="utf-8">
 <title>YH's web</title>
